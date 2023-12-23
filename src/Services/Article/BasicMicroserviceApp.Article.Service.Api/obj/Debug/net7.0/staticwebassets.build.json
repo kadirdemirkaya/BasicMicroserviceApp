@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A8x9uEU67dwTlAE15J45KvTtksydlUAsUBds6UTvYsM=",
+  "Source": "BasicMicroserviceApp.Article.Service.Api",
+  "BasePath": "_content/BasicMicroserviceApp.Article.Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\bin\Debug\net7.0\BasicMicroserviceApp.Article.Service.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\bin\Debug\net7.0\BasicMicroserviceApp.Article.Service.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\bin\Debug\net7.0\BasicMicroserviceApp.Article.Service.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\refint\BasicMicroserviceApp.Article.Service.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\ref\BasicMicroserviceApp.Article.Service.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\bin\Debug\net7.0\BasicMicroserviceApp.Article.Service.runtimeconfig.json
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service\obj\Debug\net7.0\BasicMicroserviceApp.Article.Service.genruntimeconfig.cache

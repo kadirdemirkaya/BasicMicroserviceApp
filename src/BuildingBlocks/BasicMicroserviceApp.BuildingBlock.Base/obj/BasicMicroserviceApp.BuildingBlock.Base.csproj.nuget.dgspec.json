@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj": {
+      "version": "1.1.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj",
+        "projectName": "BasicMicroserviceApp.BuildingBlock.Base",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

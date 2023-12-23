@@ -1,0 +1,12 @@
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\refint\BasicMicroserviceApp.BuildingBlock.Base.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Base\obj\Release\net7.0\ref\BasicMicroserviceApp.BuildingBlock.Base.dll

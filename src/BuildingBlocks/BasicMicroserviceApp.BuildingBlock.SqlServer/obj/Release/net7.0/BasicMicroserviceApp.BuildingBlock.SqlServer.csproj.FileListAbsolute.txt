@@ -1,0 +1,17 @@
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Base.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj.CopyComplete
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\refint\BasicMicroserviceApp.BuildingBlock.SqlServer.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.SqlServer.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.SqlServer\obj\Release\net7.0\ref\BasicMicroserviceApp.BuildingBlock.SqlServer.dll

@@ -1,0 +1,24 @@
+2023-12-23 21:13:38.218 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-23 21:13:38.227 +03:00 [INF] Hosting environment: Development
+2023-12-23 21:13:38.230 +03:00 [INF] Content root path: C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service.Api
+2023-12-23 21:13:38.728 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7224/swagger/index.html - -
+2023-12-23 21:13:39.166 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - -
+2023-12-23 21:13:39.230 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-12-23 21:13:39.296 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7224/swagger/index.html - - - 200 - text/html;charset=utf-8 573.2809ms
+2023-12-23 21:13:39.239 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.0798ms
+2023-12-23 21:13:39.433 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7224/swagger/v1/swagger.json - -
+2023-12-23 21:13:39.736 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7224/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 303.1630ms
+2023-12-23 23:50:52.989 +03:00 [INF] Now listening on: https://localhost:7224
+2023-12-23 23:50:53.064 +03:00 [INF] Now listening on: http://localhost:5179
+2023-12-23 23:50:53.073 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-23 23:50:53.085 +03:00 [INF] Hosting environment: Development
+2023-12-23 23:50:53.087 +03:00 [INF] Content root path: C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Article\BasicMicroserviceApp.Article.Service.Api
+2023-12-23 23:50:56.872 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7224/swagger/index.html - -
+2023-12-23 23:50:57.726 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-12-23 23:50:57.742 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - -
+2023-12-23 23:50:57.755 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7224/swagger/index.html - - - 200 - text/html;charset=utf-8 891.5218ms
+2023-12-23 23:50:57.786 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.4695ms
+2023-12-23 23:50:58.238 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7224/swagger/v1/swagger.json - -
+2023-12-23 23:50:58.574 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7224/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 335.4623ms
+2023-12-23 23:51:58.646 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7224/api/article//Get-All-Articles - -
+2023-12-23 23:51:58.738 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7224/api/article//Get-All-Articles - - - 404 0 - 91.5281ms

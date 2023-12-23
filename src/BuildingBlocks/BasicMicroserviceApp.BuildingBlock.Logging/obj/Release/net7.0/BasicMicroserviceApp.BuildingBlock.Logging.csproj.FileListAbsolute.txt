@@ -1,0 +1,12 @@
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\bin\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\refint\BasicMicroserviceApp.BuildingBlock.Logging.dll
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\BasicMicroserviceApp.BuildingBlock.Logging.pdb
+C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\BuildingBlocks\BasicMicroserviceApp.BuildingBlock.Logging\obj\Release\net7.0\ref\BasicMicroserviceApp.BuildingBlock.Logging.dll

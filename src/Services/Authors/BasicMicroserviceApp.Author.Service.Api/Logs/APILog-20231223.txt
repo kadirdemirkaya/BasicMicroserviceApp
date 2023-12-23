@@ -1,0 +1,19 @@
+2023-12-23 21:13:38.094 +03:00 [INF] Content root path: C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Authors\BasicMicroserviceApp.Author.Service.Api
+2023-12-23 21:13:38.659 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7244/swagger/index.html - -
+2023-12-23 21:13:39.071 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7244/_vs/browserLink - -
+2023-12-23 21:13:39.112 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-12-23 21:13:39.130 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7244/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.6988ms
+2023-12-23 21:13:39.145 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7244/swagger/index.html - - - 200 - text/html;charset=utf-8 494.0437ms
+2023-12-23 21:13:39.344 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7244/swagger/v1/swagger.json - -
+2023-12-23 23:50:52.481 +03:00 [INF] Now listening on: https://localhost:7244
+2023-12-23 23:50:52.576 +03:00 [INF] Now listening on: http://localhost:5011
+2023-12-23 23:50:52.586 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-23 23:50:52.607 +03:00 [INF] Hosting environment: Development
+2023-12-23 23:50:52.611 +03:00 [INF] Content root path: C:\Users\Casper\Desktop\GitHub Projects\BasicMicroserviceApp\src\Services\Authors\BasicMicroserviceApp.Author.Service.Api
+2023-12-23 23:50:56.931 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7244/swagger/index.html - -
+2023-12-23 23:50:57.698 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7244/_vs/browserLink - -
+2023-12-23 23:50:57.713 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-12-23 23:50:57.753 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7244/swagger/index.html - - - 200 - text/html;charset=utf-8 842.9349ms
+2023-12-23 23:50:57.785 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7244/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 86.7530ms
+2023-12-23 23:50:57.979 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7244/swagger/v1/swagger.json - -
+2023-12-23 23:50:58.310 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7244/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 330.4460ms

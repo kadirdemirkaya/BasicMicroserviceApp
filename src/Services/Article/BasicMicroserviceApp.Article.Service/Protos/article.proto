@@ -1,0 +1,21 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ArticleService";
+
+service GrpcArticle  {
+	rpc AddArticleToAuthor (AddArticleToAuthorRequest) returns (AddArticleToAuthorResponse);
+}
+
+message AddArticleToAuthorRequest {
+	AddArticleModel articlemodel = 1;
+}
+
+message AddArticleToAuthorResponse{
+	bool result = 1;
+}
+
+message AddArticleModel {
+	string title = 1;
+	string Content = 2;
+	string authorId = 3;
+}

@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.SqlServer\\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj": {
+      "version": "1.1.4",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj",
+        "projectName": "BasicMicroserviceApp.BuildingBlock.Base",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Logging\\BasicMicroserviceApp.BuildingBlock.Logging.csproj": {
+      "version": "1.1.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Logging\\BasicMicroserviceApp.BuildingBlock.Logging.csproj",
+        "projectName": "BasicMicroserviceApp.BuildingBlock.Logging",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Logging\\BasicMicroserviceApp.BuildingBlock.Logging.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Enrichers.CorrelationId": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.SqlServer\\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj": {
+      "version": "1.1.1",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.SqlServer\\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj",
+        "projectName": "BasicMicroserviceApp.BuildingBlock.SqlServer",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.SqlServer\\BasicMicroserviceApp.BuildingBlock.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj": {
+                "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Base\\BasicMicroserviceApp.BuildingBlock.Base.csproj"
+              },
+              "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Logging\\BasicMicroserviceApp.BuildingBlock.Logging.csproj": {
+                "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\src\\BuildingBlocks\\BasicMicroserviceApp.BuildingBlock.Logging\\BasicMicroserviceApp.BuildingBlock.Logging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
